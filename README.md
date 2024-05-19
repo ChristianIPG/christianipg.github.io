@@ -4,9 +4,9 @@
 Economics, MSc
 
 ## Additional Courses
-1
-2
-3
+2024 Machine Learning Specialization
+2023 Python and Statistics for Financial Analysis
+2022 Google Data Analytics
 
 ## Work Experience
 Data Analyst @ LIC SL
