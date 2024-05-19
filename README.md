@@ -15,6 +15,8 @@ Data Analyst @ LIC SL
 
 Data Analyst and AI training @ TELUS International
 
+AML Analyst
+
 ## Projects
 
 ### [Biking Trips Analysis](https://github.com/ChristianIPG/biking-trips-analysis)
