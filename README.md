@@ -5,7 +5,9 @@ Economics, MSc
 
 ## Additional Courses
 2024 Machine Learning Specialization
+
 2023 Python and Statistics for Financial Analysis
+
 2022 Google Data Analytics
 
 ## Work Experience
