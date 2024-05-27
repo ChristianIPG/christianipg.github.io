@@ -1,10 +1,15 @@
 # Data Scientist and Data Analyst
 
 ## Skills
-### SQL
-### Python
-### R
 
+### Programming
+#### SQL
+#### Python
+#### R
+
+### Reporting
+#### Power BI
+#### Tableau
 ## Projects
 
 ### [Biking Trips Analysis](https://github.com/ChristianIPG/biking-trips-analysis)
