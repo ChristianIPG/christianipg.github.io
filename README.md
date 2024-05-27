@@ -10,6 +10,13 @@
 ### Reporting
 #### Power BI
 #### Tableau
+
+###Languages
+#### Spanish
+#### English
+#### Catalan
+#### French
+
 ## Projects
 
 ### [Biking Trips Analysis](https://github.com/ChristianIPG/biking-trips-analysis)
