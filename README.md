@@ -25,6 +25,7 @@ This project analyzes bike rental data from June 2021 to June 2022 to uncover tr
 
 ## Education
 2018 - Economics, Master's Degree - UNIVERSITAT DE BARCELONA
+
 2016 - Economics, Bacherlor's Degree - UNIVERSITAT DE GIRONA
 
 ## Additional Courses
@@ -34,10 +35,4 @@ This project analyzes bike rental data from June 2021 to June 2022 to uncover tr
 
 2022 Google Data Analytics
 
-## Work Experience
-Data Analyst @ LIC SL
-
-Data Analyst and AI training @ TELUS International
-
-AML Analyst @ Deutsche Bank
 
