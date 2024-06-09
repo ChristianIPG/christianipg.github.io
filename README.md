@@ -1,9 +1,9 @@
-# Data Scientist and Data Analyst
+# Economist, Data Analyst and Scientist
 
 Hello, and welcome to my GitHub page! In this site I will be posting and continuously improving on various data-related projects.
-My specialization is in data analysis, data science and Machine Learning.
+My specialization is in data analysis, data science, Econometrics and Machine Learning.
 
-Ongoing projects are listed below.
+The site is currently under construction, but ongoing projects are listed below.
 
 ## Projects
 
@@ -17,9 +17,9 @@ A study on credit card transactions to detect fraudulent bank activity using Mac
 A study on the trends of the S&P 500 Index and Statistical analysis done entirely with Python.
 
 ## Education
-2018 - Economics, Master of Science - UNIVERSITAT DE BARCELONA
+* Economics, Master of Science - UNIVERSITAT DE BARCELONA
 
-2016 - Economics, Bacherlor's Degree - UNIVERSITAT DE GIRONA
+* Economics, Bacherlor's Degree - UNIVERSITAT DE GIRONA
 
 ## Skills
 ### Programming and Software
