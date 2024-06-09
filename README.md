@@ -1,5 +1,10 @@
 # Data Scientist and Data Analyst
 
+Hello, and welcome to my GitHub page! In this site I will be posting and continuously improving on various data-related projects.
+My specialization is in data analysis, data science and Machine Learning.
+
+Ongoing projects are listed below.
+
 ## Projects
 
 ### [Biking Trips Analysis](https://github.com/ChristianIPG/biking-trips-analysis)
